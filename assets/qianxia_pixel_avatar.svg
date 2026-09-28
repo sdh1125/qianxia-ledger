@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Original pixel-art avatar inspired by neon teal and violet palette">
+  <defs>
+    <style>
+      .outline { fill: #0d1220; }
+      .shadow { fill: #111a2b; }
+      .hair { fill: #2f1b5a; }
+      .hair2 { fill: #4f2a88; }
+      .skin { fill: #f7d0b1; }
+      .cheek { fill: #ff8ab1; opacity: 0.8; }
+      .eye { fill: #1b1028; }
+      .trim { fill: #6ee7ff; }
+      .trim2 { fill: #ba8cff; }
+      .shirt { fill: #4ecdc4; }
+      .shirt2 { fill: #8ef7ea; }
+      .bg { fill: #0b1020; }
+    </style>
+  </defs>
+
+  <!-- Background transparent by default -->
+
+  <!-- Body / silhouette -->
+  <rect x="80" y="70" width="96" height="96" class="shadow"/>
+  <rect x="72" y="78" width="112" height="96" class="hair"/>
+
+  <!-- Hair block -->
+  <rect x="64" y="54" width="128" height="32" class="hair2"/>
+  <rect x="80" y="46" width="96" height="32" class="hair"/>
+  <rect x="72" y="70" width="16" height="16" class="hair2"/>
+  <rect x="168" y="70" width="16" height="16" class="hair2"/>
+
+  <!-- Face -->
+  <rect x="88" y="74" width="80" height="64" class="skin"/>
+  <rect x="80" y="82" width="16" height="32" class="hair2"/>
+  <rect x="160" y="82" width="16" height="32" class="hair2"/>
+  <rect x="72" y="90" width="16" height="48" class="hair"/>
+  <rect x="168" y="90" width="16" height="48" class="hair"/>
+
+  <!-- Eyes -->
+  <rect x="100" y="98" width="8" height="8" class="eye"/>
+  <rect x="148" y="98" width="8" height="8" class="eye"/>
+  <rect x="108" y="98" width="8" height="8" class="trim2"/>
+  <rect x="140" y="98" width="8" height="8" class="trim2"/>
+
+  <!-- Mouth -->
+  <rect x="118" y="118" width="20" height="6" class="trim"/>
+
+  <!-- Cheeks -->
+  <rect x="96" y="112" width="8" height="8" class="cheek"/>
+  <rect x="152" y="112" width="8" height="8" class="cheek"/>
+
+  <!-- Neck -->
+  <rect x="120" y="138" width="16" height="12" class="skin"/>
+
+  <!-- Outfit -->
+  <rect x="64" y="150" width="128" height="64" class="shirt"/>
+  <rect x="80" y="150" width="96" height="16" class="shirt2"/>
+  <rect x="96" y="166" width="16" height="24" class="trim2"/>
+  <rect x="144" y="166" width="16" height="24" class="trim2"/>
+
+  <!-- Details / accents -->
+  <rect x="88" y="180" width="16" height="8" class="trim"/>
+  <rect x="152" y="180" width="16" height="8" class="trim"/>
+  <rect x="120" y="182" width="16" height="10" class="trim2"/>
+
+  <!-- Glowing edge accents -->
+  <rect x="64" y="54" width="8" height="8" class="trim"/>
+  <rect x="184" y="54" width="8" height="8" class="trim"/>
+  <rect x="64" y="206" width="8" height="8" class="trim2"/>
+  <rect x="184" y="206" width="8" height="8" class="trim2"/>
+</svg>
