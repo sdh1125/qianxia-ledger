@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="512" viewBox="0 0 1280 512" role="img" aria-label="Ten original pixel-art avatars combined into one sprite sheet">
+  <image x="0" y="0" width="256" height="256" preserveAspectRatio="none" href="qianxia_avatar_01.svg" xlink:href="qianxia_avatar_01.svg"/>
+  <image x="256" y="0" width="256" height="256" preserveAspectRatio="none" href="qianxia_avatar_02.svg" xlink:href="qianxia_avatar_02.svg"/>
+  <image x="512" y="0" width="256" height="256" preserveAspectRatio="none" href="qianxia_avatar_03.svg" xlink:href="qianxia_avatar_03.svg"/>
+  <image x="768" y="0" width="256" height="256" preserveAspectRatio="none" href="qianxia_avatar_04.svg" xlink:href="qianxia_avatar_04.svg"/>
+  <image x="1024" y="0" width="256" height="256" preserveAspectRatio="none" href="qianxia_avatar_05.svg" xlink:href="qianxia_avatar_05.svg"/>
+  <image x="0" y="256" width="256" height="256" preserveAspectRatio="none" href="qianxia_avatar_06.svg" xlink:href="qianxia_avatar_06.svg"/>
+  <image x="256" y="256" width="256" height="256" preserveAspectRatio="none" href="qianxia_avatar_07.svg" xlink:href="qianxia_avatar_07.svg"/>
+  <image x="512" y="256" width="256" height="256" preserveAspectRatio="none" href="qianxia_avatar_08.svg" xlink:href="qianxia_avatar_08.svg"/>
+  <image x="768" y="256" width="256" height="256" preserveAspectRatio="none" href="qianxia_avatar_09.svg" xlink:href="qianxia_avatar_09.svg"/>
+  <image x="1024" y="256" width="256" height="256" preserveAspectRatio="none" href="qianxia_avatar_10.svg" xlink:href="qianxia_avatar_10.svg"/>
+</svg>
