@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Original pixel-art avatar inspired by neon teal and violet palette">
+  <defs>
+    <style>
+      .bg { fill: none; }
+      .line { fill: #1b1b1b; }
+      .line2 { fill: #2d2d2d; }
+      .skin { fill: #f5d9b1; }
+      .skin2 { fill: #f2c79a; }
+      .hair { fill: #6ad7c9; }
+      .hair2 { fill: #7ef1d9; }
+      .hair3 { fill: #194a5c; }
+      .cloth { fill: #ecb4d8; }
+      .cloth2 { fill: #f6d9e8; }
+      .pink { fill: #ff8cc9; }
+      .blue { fill: #8ee7ff; }
+      .purple { fill: #b68dff; }
+      .green { fill: #79d9b0; }
+      .gold { fill: #ffd86c; }
+      .leaf { fill: #2de3b0; }
+      .shadow { fill: #9ed9c9; }
+      .white { fill: #f8f8f8; }
+      .eye { fill: #101010; }
+      .eye2 { fill: #bf82ff; }
+      .eye3 { fill: #5ad7ff; }
+      .dark { fill: #111111; }
+      .accent { fill: #ffb0d0; }
+      .accent2 { fill: #9dffef; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="512" height="512"/>
+
+  <!-- Shadow effect -->
+  <rect x="160" y="328" width="180" height="34" fill="#b0e3cf" opacity="0.55"/>
+
+  <!-- Hair back -->
+  <rect x="110" y="92" width="280" height="165" class="hair"/>
+  <rect x="118" y="74" width="76" height="60" class="hair2"/>
+  <rect x="312" y="74" width="76" height="60" class="hair2"/>
+  <rect x="78" y="120" width="56" height="120" class="hair3"/>
+  <rect x="370" y="120" width="56" height="120" class="hair3"/>
+  <rect x="108" y="246" width="66" height="60" class="hair3"/>
+  <rect x="332" y="246" width="72" height="60" class="hair3"/>
+
+  <!-- Face -->
+  <rect x="160" y="112" width="180" height="160" class="skin"/>
+  <rect x="172" y="140" width="20" height="16" class="skin2"/>
+  <rect x="318" y="140" width="20" height="16" class="skin2"/>
+
+  <!-- Bangs -->
+  <rect x="144" y="92" width="46" height="40" class="hair2"/>
+  <rect x="314" y="92" width="46" height="40" class="hair2"/>
+  <rect x="146" y="120" width="16" height="18" class="hair3"/>
+  <rect x="342" y="120" width="16" height="18" class="hair3"/>
+
+  <!-- Eyes -->
+  <rect x="196" y="166" width="52" height="22" class="white"/>
+  <rect x="260" y="166" width="52" height="22" class="white"/>
+  <rect x="204" y="172" width="36" height="10" class="eye3"/>
+  <rect x="268" y="172" width="36" height="10" class="eye3"/>
+  <rect x="188" y="172" width="12" height="12" class="dark"/>
+  <rect x="308" y="172" width="12" height="12" class="dark"/>
+  <rect x="206" y="184" width="10" height="10" class="purple" opacity="0.9"/>
+  <rect x="292" y="184" width="10" height="10" class="purple" opacity="0.9"/>
+
+  <!-- Pupils / iris -->
+  <rect x="210" y="176" width="12" height="8" class="eye"/>
+  <rect x="286" y="176" width="12" height="8" class="eye"/>
+
+  <!-- Blush -->
+  <rect x="174" y="198" width="20" height="12" class="pink"/>
+  <rect x="314" y="198" width="20" height="12" class="pink"/>
+
+  <!-- Mouth -->
+  <rect x="232" y="204" width="44" height="10" class="accent"/>
+  <rect x="244" y="214" width="18" height="12" class="pink"/>
+
+  <!-- Ears -->
+  <rect x="150" y="158" width="14" height="34" class="skin"/>
+  <rect x="344" y="158" width="14" height="34" class="skin"/>
+
+  <!-- Neck -->
+  <rect x="228" y="272" width="52" height="36" class="skin"/>
+
+  <!-- Body/clothes -->
+  <rect x="122" y="302" width="264" height="134" class="cloth2"/>
+  <rect x="142" y="302" width="228" height="28" class="cloth"/>
+  <rect x="150" y="326" width="208" height="88" class="cloth"/>
+  <rect x="186" y="328" width="35" height="66" class="green"/>
+  <rect x="286" y="328" width="35" height="66" class="green"/>
+  <rect x="224" y="342" width="60" height="52" class="cloth2"/>
+
+  <!-- Ribbon and charm -->
+  <rect x="244" y="284" width="18" height="34" class="purple"/>
+  <rect x="228" y="286" width="14" height="14" class="pink"/>
+  <rect x="268" y="286" width="14" height="14" class="pink"/>
+  <rect x="180" y="356" width="28" height="18" class="blue"/>
+  <rect x="300" y="356" width="28" height="18" class="blue"/>
+  <rect x="136" y="360" width="36" height="18" class="gold"/>
+  <rect x="336" y="360" width="36" height="18" class="gold"/>
+
+  <!-- Small decorative stars -->
+  <rect x="104" y="402" width="12" height="12" class="purple"/>
+  <rect x="392" y="402" width="12" height="12" class="purple"/>
+  <rect x="192" y="428" width="12" height="12" class="blue"/>
+  <rect x="304" y="428" width="12" height="12" class="blue"/>
+
+  <!-- Outline for pixel look -->
+  <rect x="110" y="92" width="280" height="8" class="line"/>
+  <rect x="110" y="250" width="280" height="8" class="line"/>
+  <rect x="110" y="92" width="8" height="168" class="line"/>
+  <rect x="382" y="92" width="8" height="168" class="line"/>
+  <rect x="122" y="302" width="264" height="8" class="line2"/>
+  <rect x="122" y="436" width="264" height="8" class="line2"/>
+  <rect x="122" y="302" width="8" height="134" class="line2"/>
+  <rect x="378" y="302" width="8" height="134" class="line2"/>
+</svg>
